@@ -1,0 +1,73 @@
+# Android Studio, Gradle, and local SDK state
+.gradle/
+.gradle-user-home/
+.idea/
+.kotlin/
+*.iml
+local.properties
+**/local.properties
+sdk/
+Android/Sdk/
+
+# Generated build products and native intermediates
+build/
+**/build/
+/app/release/
+captures/
+.externalNativeBuild/
+**/.externalNativeBuild/
+.cxx/
+**/.cxx/
+*.apk
+*.aab
+*.apks
+
+# Private signing material and local-only credentials (never commit)
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.key
+*.pem
+*signing*.properties
+*keystore*.properties
+key.properties
+secrets.properties
+*.secrets.*
+.env
+.env.*
+*.local.properties
+*.local.ps1
+secrets/
+
+# Emulator, device, logs, and temporary capture data
+.android/
+.android-home/
+.avd/
+*.avd/
+*.avd.ini
+logcat*.txt
+*.log
+temporary-screenshots/
+/Microsoft/
+
+# Generated working material retained locally while final store images stay tracked
+/store-assets/**/work/
+/store-assets/**/inventory.csv
+/store-assets/**/inventory.json
+/store-assets/**/CAPTURE-NOTES.md
+/store-assets/**/pakyar-screenshots.zip
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.gradle/
+.idea/
+local.properties
+**/build/
+*.apk
+*.aab
+*.jks
+*.keystore
+.env

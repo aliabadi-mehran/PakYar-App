@@ -1,0 +1,9 @@
+<resources>
+    <string name="select_all_filtered">انتخاب همهٔ فایل‌های این نتیجه</string>
+    <string name="clear_selection">پاک کردن انتخاب‌ها</string>
+    <string name="filter_selection_hint">با تغییر فیلتر، انتخاب‌ها پاک می‌شوند. فقط فایل‌های همین نتیجه حذف می‌شوند.</string>
+    <string name="preparing_files">در حال آماده‌سازی فایل‌ها…</string>
+    <string name="preparing_failed">فایل‌ها آماده نشدند. بازگردید و دوباره بررسی کنید.</string>
+    <string name="preview_file_action">پیش‌نمایش %1$s</string>
+    <string name="play_file_action">پخش %1$s</string>
+</resources>
